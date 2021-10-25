@@ -21,7 +21,7 @@ z=sqrt(2);
 
 # Creating Symbols
 
-&alpha
+&alpha;
 
 This is another alpha: &#945;
 
@@ -33,3 +33,12 @@ CH<sub>4</sub>
 
 # Creating an equation
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
+
+here is my favourite emoji, I am sure you were wondering: :hatched_chick:
+
+
+Reasons why I am in iSci | Reasons I want a nap 
+-------------------------|---------------------
+I would like to afford to live | Work is very tiring
+Being a Psychologist would be neat | Science is :sparkles: difficult :sparkles:
