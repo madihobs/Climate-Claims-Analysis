@@ -7,16 +7,16 @@ Climate change affects all humans, thus it is important to catch the youth up wi
 ### Climate Change Education History 
 As the urgency of climate change grows, climate education becomes increasingly important. The Ontario curriculum encourages the integration of climate change into various subjects, largely at the discretion of the teacher. This makes climate education for adults important, which is largely controlled by the media. Although awareness of climate change has improved, media reporting of other facts like its mechanism and negative consequences have not kept up with scientific advancement. The development of social media can be very valuable for the future of climate education, allowing environmentalists to reach a larger audience, provided that the spread of misinformation is mitigated by the consumer’s ability to evaluate source credibility.
 
-## Climate Change Education in Canada
+### Climate Change Education in Canada
 The large gap in climate change understanding in the general public often leads to a difference in what is taught in the classroom based on teachers’ personal biases. A curriculum that communicates the expected climate education is necessary to standardize climate knowledge. Saskatchewan and Ontario were assessed as the best provinces in Canada for climate change education. The Ontario curriculum encourages the integration of climate change in unrelated subjects as well as anthropogenic mechanisms of climate change directly in science class, which we use as a baseline to build a plan for climate change education in Ontario.
 
-## Climate Change Learning in Different Developmental Stages
+### Climate Change Learning in Different Developmental Stages
 Climate education differs at different ages. Education for younger children emphasizes exposure to nature although this does not effectively teach about climate change. Children cannot fully understand the concept of self and action, meaning that they must be taught about climate change in untraditional ways. Children associate aesthetics with morality and think nature should be preserved because it makes people happy rather than for ecological reasons. Climate change can be taught to younger students in terms of morality - sustainability is good and climate change is bad.
 
-## Lesson Plan
+### Lesson Plan
 Supported by our research, we developed two lesson plans for elementary and secondary school students (Tables 1, 2). Our elementary school plan uses visual arts and discussion to convey solutions to climate problems. Students will create art pieces and post them in a “gallery” setting for their peers to view. They will explain their art piece by discussing the solution depicted in it. Our secondary school plan challenges students to identify climate change facts and solutions. They will exercise their research skills to realize and communicate their findings. Both plans aim to engage students in active participation and research skills.
 
-## Example Course Outline For Elementary Climate Unit
+### Example Course Outline For Elementary Climate Unit
 
 Table 1:  Outline of elementary-level climate unit. The climate change course focuses on solutions as opposed to problems and allows students to investigate climate change through discussions with peers and presenting their ideas through artistic and verbal forms.
 |<b> Course Objectives </b>|<b> Course Details </b>|
